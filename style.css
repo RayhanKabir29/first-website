@@ -49,3 +49,8 @@ a {
 .half-width img {
   width: 100%;
 }
+#dream-big {
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
